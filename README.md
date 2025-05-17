@@ -2,7 +2,7 @@
 **Montgomery College – Department of Computer Science**
 
 ## Course Overview
-CMSC-204 focuses on the design, implementation, and application of fundamental data structures using the Java programming language. This course explores advanced programming techniques and emphasizes the importance of writing efficient, modular, and reusable code.
+CMSC 204 builds on concepts introduced in CMSC 203 , emphasizing writing larger programs and designing and implementing classical abstract data types such as list, stack, queue, binary search tree, graph, priority queue, hash table. Topics include string processing and recursion; data abstraction, encapsulation, and structure implementation; object-oriented program design; specification, implementation and application of these traditional ADTs. The course also emphasizes dynamic memory allocation, search and sorting algorithms, and introduces algorithm complexity. Designing and implementing advanced-level programming assignments are an integral part of the course.
 
 Students gain hands-on experience with data structures such as:
 - Linked Lists (Singly, Doubly, and Circular)
@@ -25,14 +25,13 @@ By the end of the course, students will be able to:
 - Apply abstract data types (ADTs) to solve real-world computational problems.
 
 ## Tools & Technologies
-- **Java 17+**
+- **Java 23+**
 - **JUnit 4/5** (for unit testing)
-- **Eclipse IDE** or IntelliJ IDEA (recommended)
+- **Eclipse IDE** or IntelliJ IDEA 
 - **Git/GitHub** for version control
 
 ## Prerequisites
-- CMSC-203 (Computer SCience I)
-- CMSC-140 or CMSC-201 (Introductory Programming)
+- CMSC 203 (Computer SCience I)
 
 ## Instructor Note
 Projects in this course are designed to simulate real-world programming tasks that emphasize correctness, efficiency, and maintainability. Proper documentation, test coverage, and code style are expected.
