@@ -31,7 +31,7 @@ By the end of the course, students will be able to:
 - **Git/GitHub** for version control
 
 ## Prerequisites
-- CMSC-203 (Discrete Structures)
+- CMSC-203 (Computer SCience I)
 - CMSC-140 or CMSC-201 (Introductory Programming)
 
 ## Instructor Note
