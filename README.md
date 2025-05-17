@@ -1,4 +1,4 @@
-# CMSC-204: Data Structures
+# CMSC-204 Computer Science II Coursework: Data Structures
 **Montgomery College – Department of Computer Science**
 
 ## Course Overview
